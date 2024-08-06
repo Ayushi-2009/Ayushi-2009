@@ -28,10 +28,7 @@ I am currently a final year student and learning python with data science.
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
                     </picture>
-                    </a>
-                    
-### Badges<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Ayushi-2009"><img src="https://github-readme-stats.vercel.app/api?username=Ayushi-2009&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Ayushi-2009's GitHub stats" /></a><a
+                    </a></p><b>My GitHub Stats</b><a
+                      href="http://www.github.com/Ayushi-2009"><img src="https://github-readme-stats.vercel.app/api?username=Ayushi-2009&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&show_icons=true" alt="Ayushi-2009's GitHub stats" /></a><a
                       href="http://www.github.com/Ayushi-2009"><img
                   src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushi-2009&stroke=a855f7&background=000000&ring=0891b2&fire=0891b2&currStreakNum=a855f7&currStreakLabel=0891b2&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a><a href="https://github.com/Ayushi-2009" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-2009&langs_count=10&title_color=0891b2&text_color=a855f7&icon_color=84cc16&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
